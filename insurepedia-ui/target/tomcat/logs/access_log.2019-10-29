@@ -1,0 +1,8 @@
+127.0.0.1 - - [29/Oct/2019:18:02:05 +0200] "GET /clients-list HTTP/1.1" 200 2350 http-bio-8080-exec-2 120
+127.0.0.1 - - [29/Oct/2019:18:02:05 +0200] "GET /webjars/bootstrap/3.3.6/js/bootstrap.min.js HTTP/1.1" 200 36868 http-bio-8080-exec-5 37
+127.0.0.1 - - [29/Oct/2019:18:02:05 +0200] "GET /webjars/bootstrap/3.3.6/css/bootstrap.min.css HTTP/1.1" 200 121260 http-bio-8080-exec-3 40
+127.0.0.1 - - [29/Oct/2019:18:02:05 +0200] "GET /webjars/jquery/1.9.1/jquery.js HTTP/1.1" 200 268381 http-bio-8080-exec-4 38
+127.0.0.1 - - [29/Oct/2019:18:02:05 +0200] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8080-exec-8 3
+127.0.0.1 - - [29/Oct/2019:18:05:20 +0200] "GET /client-details HTTP/1.1" 200 2755 http-bio-8080-exec-2 40
+127.0.0.1 - - [29/Oct/2019:18:05:23 +0200] "POST /client-details HTTP/1.1" 200 3167 http-bio-8080-exec-2 76
+127.0.0.1 - - [29/Oct/2019:18:05:29 +0200] "GET /clients-list HTTP/1.1" 200 2350 http-bio-8080-exec-2 4
